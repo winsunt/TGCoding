@@ -1,2 +1,2 @@
-# TTCoding
-青少年自学编程
+# TGCoding
+天哥学编程
