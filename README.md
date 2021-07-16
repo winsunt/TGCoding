@@ -96,7 +96,7 @@ https://oj.coding61.com/
 编程猫通天塔
 https://tob.codemao.cn/
 
-ICODE
+ICODE学习平台
 https://icode.org.cn/
 
 CodeCombat，强烈推荐，游戏化学习编程，用编程来打怪过关
