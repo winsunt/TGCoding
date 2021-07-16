@@ -94,7 +94,7 @@ https://aishiqingsai.org.cn/
 https://oj.coding61.com/
 
 编程猫通天塔
-https://tob.codemao.cn/tower/#/home
+https://tob.codemao.cn/
 
 ICODE
 https://icode.org.cn/
